@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/corona-nepal/static/css/main.e8c70e54.chunk.css",
-    "main.js": "/corona-nepal/static/js/main.f810a41a.chunk.js",
-    "main.js.map": "/corona-nepal/static/js/main.f810a41a.chunk.js.map",
+    "main.css": "/corona-nepal/static/css/main.f4cecfef.chunk.css",
+    "main.js": "/corona-nepal/static/js/main.e32e42d0.chunk.js",
+    "main.js.map": "/corona-nepal/static/js/main.e32e42d0.chunk.js.map",
     "runtime-main.js": "/corona-nepal/static/js/runtime-main.0b470d92.js",
     "runtime-main.js.map": "/corona-nepal/static/js/runtime-main.0b470d92.js.map",
     "static/js/2.decf9b79.chunk.js": "/corona-nepal/static/js/2.decf9b79.chunk.js",
     "static/js/2.decf9b79.chunk.js.map": "/corona-nepal/static/js/2.decf9b79.chunk.js.map",
     "index.html": "/corona-nepal/index.html",
-    "precache-manifest.5239fb6c7f132ee97906ab881a1379aa.js": "/corona-nepal/precache-manifest.5239fb6c7f132ee97906ab881a1379aa.js",
+    "precache-manifest.ba16e8317cd7929100d8210631efb0b4.js": "/corona-nepal/precache-manifest.ba16e8317cd7929100d8210631efb0b4.js",
     "service-worker.js": "/corona-nepal/service-worker.js",
-    "static/css/main.e8c70e54.chunk.css.map": "/corona-nepal/static/css/main.e8c70e54.chunk.css.map",
+    "static/css/main.f4cecfef.chunk.css.map": "/corona-nepal/static/css/main.f4cecfef.chunk.css.map",
     "static/js/2.decf9b79.chunk.js.LICENSE.txt": "/corona-nepal/static/js/2.decf9b79.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/corona-nepal/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0b470d92.js",
     "static/js/2.decf9b79.chunk.js",
-    "static/css/main.e8c70e54.chunk.css",
-    "static/js/main.f810a41a.chunk.js"
+    "static/css/main.f4cecfef.chunk.css",
+    "static/js/main.e32e42d0.chunk.js"
   ]
 }

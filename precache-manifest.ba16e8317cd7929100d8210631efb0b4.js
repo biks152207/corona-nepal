@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "57794dce625c70cf4b4695cde329f087",
+    "revision": "f0afe6d3e3163270c773901d83683a9b",
     "url": "/corona-nepal/index.html"
   },
   {
-    "revision": "ef632722eff06dbc4a4f",
-    "url": "/corona-nepal/static/css/main.e8c70e54.chunk.css"
+    "revision": "d90dd11dc0f9c73d6152",
+    "url": "/corona-nepal/static/css/main.f4cecfef.chunk.css"
   },
   {
     "revision": "df3b9e8bc9242c2641bc",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/corona-nepal/static/js/2.decf9b79.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ef632722eff06dbc4a4f",
-    "url": "/corona-nepal/static/js/main.f810a41a.chunk.js"
+    "revision": "d90dd11dc0f9c73d6152",
+    "url": "/corona-nepal/static/js/main.e32e42d0.chunk.js"
   },
   {
     "revision": "9f1a54826aa972f36d48",
