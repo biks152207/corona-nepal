@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/corona-nepal/static/css/main.f4cecfef.chunk.css",
-    "main.js": "/corona-nepal/static/js/main.4788b767.chunk.js",
-    "main.js.map": "/corona-nepal/static/js/main.4788b767.chunk.js.map",
+    "main.js": "/corona-nepal/static/js/main.691b4d67.chunk.js",
+    "main.js.map": "/corona-nepal/static/js/main.691b4d67.chunk.js.map",
     "runtime-main.js": "/corona-nepal/static/js/runtime-main.0b470d92.js",
     "runtime-main.js.map": "/corona-nepal/static/js/runtime-main.0b470d92.js.map",
     "static/js/2.decf9b79.chunk.js": "/corona-nepal/static/js/2.decf9b79.chunk.js",
     "static/js/2.decf9b79.chunk.js.map": "/corona-nepal/static/js/2.decf9b79.chunk.js.map",
     "index.html": "/corona-nepal/index.html",
-    "precache-manifest.ae4a85ad6c8795e3d8e8be70bff289ca.js": "/corona-nepal/precache-manifest.ae4a85ad6c8795e3d8e8be70bff289ca.js",
+    "precache-manifest.de492847357134fe3ab367af217c4b0c.js": "/corona-nepal/precache-manifest.de492847357134fe3ab367af217c4b0c.js",
     "service-worker.js": "/corona-nepal/service-worker.js",
     "static/css/main.f4cecfef.chunk.css.map": "/corona-nepal/static/css/main.f4cecfef.chunk.css.map",
     "static/js/2.decf9b79.chunk.js.LICENSE.txt": "/corona-nepal/static/js/2.decf9b79.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.0b470d92.js",
     "static/js/2.decf9b79.chunk.js",
     "static/css/main.f4cecfef.chunk.css",
-    "static/js/main.4788b767.chunk.js"
+    "static/js/main.691b4d67.chunk.js"
   ]
 }
