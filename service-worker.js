@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/corona-nepal/precache-manifest.de492847357134fe3ab367af217c4b0c.js"
+  "/corona-nepal/precache-manifest.ec5eea0a18332a39c80a28153762ec31.js"
 );
 
 self.addEventListener('message', (event) => {
